@@ -1,3 +1,10 @@
+############## Infant Cognition lab ##############
+#### Last edit: 2/5/18 
+#### Created by: Michaela DeBolt
+
+
+
+
 install.packages("magick")
 library("magick")
 
